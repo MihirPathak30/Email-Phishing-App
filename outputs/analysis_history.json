@@ -1,0 +1,86 @@
+[
+  {
+    "Timestamp": "2026-08-13 11:20:15",
+    "Prediction": "Phishing",
+    "Confidence": "84.02%",
+    "Risk Level": "Critical",
+    "Preview": "Subject: Urgent Account Suspension Notice From: security-update@account-verify.co To: customer@example.com  Dear User,  "
+  },
+  {
+    "Timestamp": "2026-08-13 11:18:56",
+    "Prediction": "Phishing",
+    "Confidence": "84.02%",
+    "Risk Level": "Critical",
+    "Preview": "Subject: Urgent Account Suspension Notice From: security-update@account-verify.co To: customer@example.com  Dear User,  "
+  },
+  {
+    "Timestamp": "2026-08-12 21:12:18",
+    "Prediction": "Phishing",
+    "Confidence": "84.02%",
+    "Risk Level": "Critical",
+    "Preview": "Subject: Urgent Account Suspension Notice From: security-update@account-verify.co To: customer@example.com  Dear User,  "
+  },
+  {
+    "Timestamp": "2026-08-12 21:12:17",
+    "Prediction": "Phishing",
+    "Confidence": "84.02%",
+    "Risk Level": "Critical",
+    "Preview": "Subject: Urgent Account Suspension Notice From: security-update@account-verify.co To: customer@example.com  Dear User,  "
+  },
+  {
+    "Timestamp": "2026-08-12 21:12:14",
+    "Prediction": "Phishing",
+    "Confidence": "84.02%",
+    "Risk Level": "Critical",
+    "Preview": "Subject: Urgent Account Suspension Notice From: security-update@account-verify.co To: customer@example.com  Dear User,  "
+  },
+  {
+    "Timestamp": "2026-07-26 15:05:06",
+    "Prediction": "Legitimate",
+    "Confidence": "57.64%",
+    "Risk Level": "Medium",
+    "Preview": "You\u2019ve got fresh credits waiting \u26a1 Inbox  Lovable <noreply@lovable.dev> Unsubscribe Sat, Jul 25, 2:51\u202fPM (1 day ago) to "
+  },
+  {
+    "Timestamp": "2026-07-24 17:14:15",
+    "Prediction": "Legitimate",
+    "Confidence": "58.49%",
+    "Risk Level": "Medium",
+    "Preview": "Weekly Statement of Accounts Inbox  Kotak Neo <backoffice@kotaksecurities.com> Attachments Wed, Jul 22, 12:47\u202fAM (2 days"
+  },
+  {
+    "Timestamp": "2026-07-24 16:52:25",
+    "Prediction": "Legitimate",
+    "Confidence": "66.95%",
+    "Risk Level": "Medium",
+    "Preview": "NoBroker <info@homeservices.nobroker.in> Fri, Jul 17, 3:02\u202fPM (7 days ago) to me  Why is this message in spam? This mess"
+  },
+  {
+    "Timestamp": "2026-07-24 16:51:27",
+    "Prediction": "Phishing",
+    "Confidence": "84.02%",
+    "Risk Level": "Critical",
+    "Preview": "Subject: Urgent Account Suspension Notice From: security-update@account-verify.co To: customer@example.com  Dear User,  "
+  },
+  {
+    "Timestamp": "2026-07-24 16:51:24",
+    "Prediction": "Phishing",
+    "Confidence": "84.02%",
+    "Risk Level": "Critical",
+    "Preview": "Subject: Urgent Account Suspension Notice From: security-update@account-verify.co To: customer@example.com  Dear User,  "
+  },
+  {
+    "Timestamp": "2026-07-24 16:51:07",
+    "Prediction": "Legitimate",
+    "Confidence": "59.75%",
+    "Risk Level": "Medium",
+    "Preview": "studentsection.mitsoc@mituniversity.edu.in studentsection.mitsoc@mituniversity.edu.in via sendgrid.net  Attachments 4:41"
+  },
+  {
+    "Timestamp": "2026-07-24 16:51:05",
+    "Prediction": "Legitimate",
+    "Confidence": "59.75%",
+    "Risk Level": "Medium",
+    "Preview": "studentsection.mitsoc@mituniversity.edu.in studentsection.mitsoc@mituniversity.edu.in via sendgrid.net  Attachments 4:41"
+  }
+]

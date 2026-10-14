@@ -1,0 +1,274 @@
+{
+  "best_model_name": "Logistic Regression",
+  "dataset_path": "phishing_email_dataset.csv",
+  "dataset_size": 440,
+  "class_distribution": {
+    "legitimate": 220,
+    "phishing": 220
+  },
+  "models": {
+    "Logistic Regression": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "classification_report": {
+        "0": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 44.0
+        },
+        "1": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 44.0
+        },
+        "accuracy": 1.0,
+        "macro avg": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 88.0
+        },
+        "weighted avg": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 88.0
+        }
+      }
+    },
+    "Naive Bayes": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "classification_report": {
+        "0": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 44.0
+        },
+        "1": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 44.0
+        },
+        "accuracy": 1.0,
+        "macro avg": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 88.0
+        },
+        "weighted avg": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 88.0
+        }
+      }
+    },
+    "Random Forest": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "classification_report": {
+        "0": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 44.0
+        },
+        "1": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 44.0
+        },
+        "accuracy": 1.0,
+        "macro avg": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 88.0
+        },
+        "weighted avg": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 88.0
+        }
+      }
+    },
+    "Decision Tree": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "classification_report": {
+        "0": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 44.0
+        },
+        "1": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 44.0
+        },
+        "accuracy": 1.0,
+        "macro avg": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 88.0
+        },
+        "weighted avg": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 88.0
+        }
+      }
+    },
+    "Support Vector Machine": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "classification_report": {
+        "0": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 44.0
+        },
+        "1": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 44.0
+        },
+        "accuracy": 1.0,
+        "macro avg": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 88.0
+        },
+        "weighted avg": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 88.0
+        }
+      }
+    }
+  },
+  "feature_importance": [
+    {
+      "feature": "urltoken",
+      "importance": 1.6013628625648064
+    },
+    {
+      "feature": "login",
+      "importance": 0.9763714541972849
+    },
+    {
+      "feature": "now",
+      "importance": 0.9231540102578886
+    },
+    {
+      "feature": "password",
+      "importance": 0.9095726441519512
+    },
+    {
+      "feature": "next",
+      "importance": 0.8281990557286567
+    },
+    {
+      "feature": "details",
+      "importance": 0.7991218687859071
+    },
+    {
+      "feature": "portal",
+      "importance": 0.7730897586187275
+    },
+    {
+      "feature": "wallet",
+      "importance": 0.7714832804879719
+    },
+    {
+      "feature": "review",
+      "importance": 0.7321680602501076
+    },
+    {
+      "feature": "click",
+      "importance": 0.7213965016235239
+    },
+    {
+      "feature": "account",
+      "importance": 0.7206551256624348
+    },
+    {
+      "feature": "week",
+      "importance": 0.7121314315078286
+    },
+    {
+      "feature": "reminder",
+      "importance": 0.7006563405201357
+    },
+    {
+      "feature": "secure",
+      "importance": 0.6990603308622779
+    },
+    {
+      "feature": "office",
+      "importance": 0.6906941647618691
+    },
+    {
+      "feature": "payment",
+      "importance": 0.6739840359469162
+    },
+    {
+      "feature": "company com",
+      "importance": 0.6738978333970712
+    },
+    {
+      "feature": "company",
+      "importance": 0.6738978333970712
+    },
+    {
+      "feature": "com",
+      "importance": 0.6738978333970712
+    },
+    {
+      "feature": "notice",
+      "importance": 0.6735202548402375
+    }
+  ],
+  "confusion_matrix": [
+    [
+      44,
+      0
+    ],
+    [
+      0,
+      44
+    ]
+  ],
+  "labels": [
+    "Legitimate",
+    "Phishing"
+  ],
+  "vectorizer_path": "tfidf_vectorizer.joblib",
+  "model_path": "best_phishing_email_model.joblib"
+}
